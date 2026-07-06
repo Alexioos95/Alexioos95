@@ -49,6 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-00758A?style=flat&logoColor=white)  
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)
 
 **Debugging**  
 ![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logoColor=white)
@@ -62,25 +63,25 @@
 * ## 42-advanced (Cursus de spécialisations)
   * ### Développement web
     * #### [matcha](https://github.com/Alexioos95/matcha)
-      * Développement d'une application Web responsive de rencontres en Server-Side Rendering avec PHP : conception de l'interface, gestion des utilisateurs et profils, upload d'images, géolocalisation, algorithmes de recommandation et popularité, filtres de recherche, interactions sociales, base de données MySQL et conteneurisation avec Docker
+      * Développement d'une application Web responsive de rencontres en Server-Side Rendering avec PHP : conception de l'interface, gestion des utilisateurs et profils, upload d'images, géolocalisation, algorithmes de recommandation et popularité, filtres de recherche, interactions sociales, base de données MySQL et conteneurisation avec Docker.
     * #### [camagru](https://github.com/Alexioos95/camagru)
       * Réalisation d'une application Web responsive de partage de montage photo en Server-Side Rendering avec PHP : conception de l'interface, gestion des utilisateurs, upload d'images, capture via webcam, ajout de filtres avec previews, galerie publique, système de likes et commentaires, notifications par mail, base de données MySQL et conteneurisation avec Docker.
     * #### [piscine Django](https://github.com/Alexioos95/piscine_django)
-      * Découverte des views, templates, forms, requêtes SQL, et sessions de Django
+      * Découverte des views, templates, forms, requêtes SQL, et sessions de Django.
   * ### Développement mobile 
     * #### [swifty-companion](https://github.com/Alexioos95/swifty-companion)
-      * Création d'une application de consultation de profile intranet 42
+      * Création d'une application de consultation de profile intranet 42 en Java, afin de découvrir l'API 42 v2.
     * #### [ft_hangouts](https://github.com/Alexioos95/ft_hangouts)
-      * Programmation d'une application de messagerie et appel téléphonique pour Android en Java
+      * Programmation d'une application de messagerie et appel téléphonique pour Android en Java.
     * #### [piscine mobile](https://github.com/Alexioos95/piscine_mobile)
-      * Découverte du développement mobile en hybride avec React Native, au travers d'applications de calculatrice, prévisions météo, et journal intime
+      * Découverte du développement mobile en hybride avec React Native, au travers d'applications de calculatrice, prévisions météo, et journal intime.
   * ### Cyber-sécurité
     * #### [override](https://github.com/Alexioos95/override)
       * Challenge Capture The Flag en environnement Assembleur x86 : analyse de binaires compilés et obfusqués, et exploitation de vulnérabilités de type buffer overflow et format string attack.
     * #### [rainfall](https://github.com/Alexioos95/rainfall)
       * Challenge Capture The Flag en environnement Assembleur x86 : analyse de binaires compilés et exploitation de vulnérabilités de type buffer overflow et format string attack.
     * #### [snow_crash](https://github.com/Alexioos95/snow_crash)
-      * Challenge Capture The Flag en environnement Linux : exploitation de failles liées aux permissions et à des erreurs de scripts
+      * Challenge Capture The Flag en environnement Linux : exploitation de failles liées aux permissions et à des erreurs de scripts.
 * ## [42-cursus/Common Core (Cursus principal)](https://github.com/Alexioos95/42-Cursus)
   * Respect des spécifications techniques et des normes de programmation imposées
   * Utilisation de Linux et de son terminal, scripting Bash, et Makefile
