@@ -84,6 +84,7 @@
       * Challenge Capture The Flag en environnement Linux : exploitation de failles liées aux permissions et à des erreurs de scripts.
 * ## [42-cursus/Common Core (Cursus principal)](https://github.com/Alexioos95/42-Cursus)
   * Respect des spécifications techniques et des normes de programmation imposées
+  * Gestion de mémoire rigoureuse afin d'éviter une quelconque fuite de mémoire
   * Utilisation de Linux et de son terminal, scripting Bash, et Makefile
   * Développement de bibliothèques, algorithmes de tri et logique, jeux-vidéos 2D, et shell en C89
   * Configuration de machines virtuelles VirtualBox et utilisation de conteneurs Docker
