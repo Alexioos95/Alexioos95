@@ -89,7 +89,7 @@
   * Développement de bibliothèques, algorithmes de tri et logique, jeux-vidéos 2D, et shell en C89
   * Configuration de machines virtuelles VirtualBox et utilisation de conteneurs Docker
   * Programmation orientée objet et développement d'un serveur web en C++98
-  * Réalisation d'une application web responsive avec JavaScript et Django intégrant un jeu Pong en ligne : interface respectant les règles d'accessibilité, moteur de jeu avec requestAnimationFrame(), contrôles clavier, souris et tactile, affichage dynamique d'un chat en temps réel via WebSockets, appels API asynchrones avec fetch(), et traduction du contenu. ([ft_transcendance](https://github.com/Alexioos95/transcendance/))
+  * [ft_transcendance](https://github.com/Alexioos95/transcendance/) : Réalisation d'une application web responsive avec JavaScript et Django intégrant un jeu Pong en ligne avec interface respectant les règles d'accessibilité, moteur de jeu avec requestAnimationFrame(), contrôles clavier, souris et tactile, affichage dynamique d'un chat en temps réel via WebSockets, appels API asynchrones avec fetch(), et traduction du contenu.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=200&section=footer" width="100%" alt="Banner footer"/>
