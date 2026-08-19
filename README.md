@@ -34,20 +34,30 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 
 **Frameworks**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 
 **Bases de données**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 
-**Outils**  
+**Versionning**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+
+**Outils de développement**  
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)  
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
+
+**Virtualisation**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-00758A?style=flat&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-00758A?style=flat&logoColor=white)
+
+**IDE**  
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)
 
@@ -60,6 +70,9 @@
 
 ## 🚀 Projets
 
+* ## Personnels
+  * #### [MyMediaStream](https://github.com/Alexioos95/MyMediaStream)
+    * Interface et API custom de lecture vidéo et photo minimaliste en React/Express pour JellyFin.
 * ## 42-advanced (Cursus de spécialisations)
   * ### Développement web
     * #### [matcha](https://github.com/Alexioos95/matcha)
