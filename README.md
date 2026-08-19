@@ -16,7 +16,7 @@
 ## 💻 À propos de moi
 
 - 🎓 **Formation** : Étudiant à l'école 42 Paris
-- 💼 **Recherche** : **Stage** de **6 mois** en **Web** (front, back ou fullstack) à partir de **Janvier 2027**
+- 💼 **Recherche** : **Stage** de **6 mois** en **Web** (front, back ou fullstack) pour **Janvier 2027** (disponible plus tôt, sous réserve de 2 semaines de préavis)
 - 📍 **Localisation** : Beaumont-sur-Oise et ses alentours en Île-de-France
 - 🌐 **Langues** : Français, Anglais
 
