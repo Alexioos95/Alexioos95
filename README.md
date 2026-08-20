@@ -15,8 +15,8 @@
 
 ## 💻 À propos de moi
 
-- 🎓 **Formation** : Étudiant à l'école 42 Paris
-- 💼 **Recherche** : **Stage** de **6 mois** en **Web** (front, back ou fullstack) pour **Janvier 2027** (disponible plus tôt, sous réserve de 2 semaines de préavis)
+- 🎓 **Formation** : Étudiant à 42 Paris
+- 💼 **Recherche** : **Stage** de **6 mois** en **Web** (front, back ou fullstack) pour **Janvier 2027** (disponible plus tôt, sous réserve du délai pour les tâches administratives)
 - 📍 **Localisation** : Beaumont-sur-Oise et ses alentours en Île-de-France
 - 🌐 **Langues** : Français, Anglais
 
@@ -83,9 +83,9 @@
       * Découverte des views, templates, forms, requêtes SQL, et sessions de Django.
   * ### Développement mobile 
     * #### [swifty-companion](https://github.com/Alexioos95/swifty-companion)
-      * Création d'une application de consultation de profile intranet 42 en Java, afin de découvrir l'API 42 v2.
+      * Création d'une application de consultation de profil intranet 42 en Java, afin de découvrir l'API 42 v2.
     * #### [ft_hangouts](https://github.com/Alexioos95/ft_hangouts)
-      * Programmation d'une application de messagerie et appel téléphonique pour Android en Java.
+      * Programmation d'une application de messagerie et d'appels téléphoniques pour Android en Java.
     * #### [piscine mobile](https://github.com/Alexioos95/piscine_mobile)
       * Découverte du développement mobile en hybride avec React Native, au travers d'applications de calculatrice, prévisions météo, et journal intime.
   * ### Cyber-sécurité
@@ -99,10 +99,10 @@
   * Respect des spécifications techniques et des normes de programmation imposées
   * Gestion de mémoire rigoureuse afin d'éviter une quelconque fuite de mémoire
   * Utilisation de Linux et de son terminal, scripting Bash, et Makefile
-  * Développement de bibliothèques, algorithmes de tri et logique, jeux-vidéos 2D, et shell en C89
+  * Développement de bibliothèques, algorithmes de tri et logique, jeux vidéo 2D, et shell en C89
   * Configuration de machines virtuelles VirtualBox et utilisation de conteneurs Docker
   * Programmation orientée objet et développement d'un serveur web en C++98
-  * [ft_transcendance](https://github.com/Alexioos95/transcendance/) : Réalisation d'une application web responsive avec JavaScript et Django intégrant un jeu Pong en ligne avec interface respectant les règles d'accessibilité, moteur de jeu avec requestAnimationFrame(), contrôles clavier, souris et tactile, affichage dynamique d'un chat en temps réel via WebSockets, appels API asynchrones avec fetch(), et traduction du contenu.
+  * [ft_transcendance](https://github.com/Alexioos95/transcendance/) : Réalisation d'une application web responsive avec JavaScript et Django intégrant un jeu Pong en ligne avec interface respectant les règles d'accessibilité, moteur de jeu avec requestAnimationFrame(), contrôles clavier, souris et tactile, affichage dynamique d'une discussion en temps réel via WebSockets, appels API asynchrones avec fetch(), et traduction du contenu.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=200&section=footer" width="100%" alt="Banner footer"/>
